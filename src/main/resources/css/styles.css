@@ -1,0 +1,10 @@
+body{
+    padding-top: 100px;
+    background:#312e2e;
+    text-align: center;
+}
+h1{
+    font-family: 'Play',sans-serif;
+    font-size: 76px;
+    color: white;
+}
